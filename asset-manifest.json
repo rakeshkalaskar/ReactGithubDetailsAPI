@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactGithubDetailsAPI/static/css/main.df117041.css",
+    "main.js": "/ReactGithubDetailsAPI/static/js/main.69764ced.js",
+    "index.html": "/ReactGithubDetailsAPI/index.html",
+    "main.df117041.css.map": "/ReactGithubDetailsAPI/static/css/main.df117041.css.map",
+    "main.69764ced.js.map": "/ReactGithubDetailsAPI/static/js/main.69764ced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df117041.css",
+    "static/js/main.69764ced.js"
+  ]
+}
