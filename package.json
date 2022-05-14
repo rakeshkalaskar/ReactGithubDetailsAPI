@@ -1,5 +1,5 @@
 {
-  "name": "jsonapicall",
+  "name": "react_api_call_by_fetch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
